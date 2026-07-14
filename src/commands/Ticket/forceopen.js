@@ -1,5 +1,4 @@
 import { SlashCommandBuilder, MessageFlags } from 'discord.js';
-import { SlashCommandBuilder, MessageFlags } from 'discord.js';
 import { successEmbed } from '../../utils/embeds.js';
 import { InteractionHelper } from '../../utils/interactionHelper.js';
 
